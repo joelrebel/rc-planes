@@ -1,8 +1,10 @@
-# Skysurfer glider
+### [Skysurfer glider](/skysurfer)
 
 Mod to include a flight controller and FPV gear.
 
-[[/skysurfer/media/skysurfer.png]]
+![](skysurfer/media/skysurfer.jpg?raw=true)
+
+
 
 #### Specs
 
@@ -33,6 +35,6 @@ OpenTX radio controller firmware 2.2.3
 
 [rcgroups](https://www.rcgroups.com/forums/showthread.php?1231310-Sky-Surfer-aka-Bixler-See-Post-2-3-for-parts-mods-B4-asking)
 
-# Nano Talon
+### Nano Talon
 
-# Flite Test - Flying wing
+### Flite Test - Flying wing
